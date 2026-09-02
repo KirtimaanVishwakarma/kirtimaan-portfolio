@@ -6,3 +6,6 @@ out/
 .gstack/
 *.log
 .claude/
+
+.vercel
+.env*

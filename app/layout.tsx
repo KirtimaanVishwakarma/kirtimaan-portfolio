@@ -10,7 +10,7 @@ import CommandPalette from "@/components/CommandPalette";
 import Toast from "@/components/Toast";
 import BackToTop from "@/components/BackToTop";
 
-const SITE = "https://kirtimaan-vishwakarma.dev";
+const SITE = "https://kirtimaan.vercel.app";
 const DESCRIPTION =
   "Frontend Developer (React.js / Next.js) and Full-Stack Developer (MERN) with 5+ years of experience designing and building scalable, high-performance web applications.";
 
